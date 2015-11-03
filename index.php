@@ -5,6 +5,7 @@
 		<title>JavaScript Assignment</title>
 	</head>
 	<body>
+		<script type="text/javascript" src="java.js"></script>
 
 		<div id="click" onclick="clickEvent();></div>"
 		<p> Bacon ipsum dolor amet meatball bacon salami beef ribs venison, jowl pork chop ground round. Andouille corned beef kielbasa swine. Hamburger prosciutto pork belly, doner salami alcatra short loin jowl. Porchetta pork bacon ribeye, meatball pancetta tail spare ribs corned beef sausage kielbasa doner ball tip hamburger. Beef swine ground round capicola turkey leberkas ribeye corned beef short ribs pastrami shankle picanha. Fatback frankfurter boudin brisket ground round cupim capicola. Bacon doner alcatra, strip steak corned beef rump flank pastrami.</p>
