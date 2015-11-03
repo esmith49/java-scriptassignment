@@ -13,7 +13,7 @@
 
 		<p>Ribeye tail tongue pastrami. Pork loin fatback pancetta sausage, cow salami chicken pork belly doner shankle tri-tip ball tip porchetta. Filet mignon t-bone capicola andouille pancetta. Tenderloin turducken corned beef pancetta. Chuck short ribs leberkas fatback pork belly picanha sausage salami ham filet mignon beef ribs beef shankle. Kielbasa alcatra cupim venison pork rump pork loin salami sausage t-bone hamburger ribeye boudin. Short ribs filet mignon ball tip prosciutto chicken short loin beef ham hock, beef ribs ribeye landjaeger. </p>
 
-		<h2>Goals</h2>
+		<h2></h2>
 		<p>Picanha ham ribeye, landjaeger pork kevin tail turkey beef shank meatball. Shank hamburger turducken flank alcatra ball tip pork loin leberkas venison biltong tongue brisket sausage doner pastrami. Pork ham hock beef ribs, swine jerky pastrami alcatra ball tip ground round. Tail chuck doner, andouille beef ribs short loin pork loin alcatra bresaola tenderloin flank ham landjaeger venison. Corned beef shankle spare ribs chicken. Capicola rump fatback turkey. Shankle turkey pork belly, landjaeger rump drumstick fatback ham picanha pastrami.</p>
 
 		</html>
